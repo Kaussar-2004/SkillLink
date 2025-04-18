@@ -1,0 +1,10 @@
+<!-- job-portal-frontend/src/app/app.component.html -->
+<mat-toolbar color="primary">
+  <span class="brand-name" routerLink="/role-selection">SkillLink</span>
+  <div class="spacer"></div>
+  <nav *ngIf="showNavigation">
+    <a mat-button routerLink="/jobs" routerLinkActive="active" class="nav-button">Jobs</a>
+    <a mat-button routerLink="/applications" routerLinkActive="active" class="nav-button">Applications</a>
+  </nav>
+</mat-toolbar>
+<router-outlet></router-outlet>
