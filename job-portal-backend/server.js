@@ -6,7 +6,8 @@ const jobRoutes = require('./routes/jobRoutes');
 const applicationRoutes = require('./routes/applicationroutes');
 
 // Middleware
-app.use(cors());
+app.use(cors(origin: 'http://localhost:4200', // or '*' for testing
+  credentials: true));
 app.use(express.json());
 
 // Request logging middleware
