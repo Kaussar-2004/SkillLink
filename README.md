@@ -120,6 +120,12 @@
   </table>
 
   <h2>🌐 API Endpoints</h2>
+  <h3>🧾 Role-Selection API</h3>
+  <table>
+    <tr><th>Method</th><th>Endpoint</th><th>Description</th></tr>
+    <tr><td>GET</td><td>/api/role-selection</td><td>Get Applicant Role</td></tr>
+    <tr><td>GET</td><td>/api/role-selection</td><td>Get Employer Role</td></tr>
+  </table>
   <h3>🧾 Job API</h3>
   <table>
     <tr><th>Method</th><th>Endpoint</th><th>Description</th></tr>
@@ -128,7 +134,6 @@
     <tr><td>GET</td><td>/api/jobs/:id</td><td>Get job by ID</td></tr>
     <tr><td>PUT</td><td>/api/jobs/:id</td><td>Update job details</td></tr>
     <tr><td>DELETE</td><td>/api/jobs/:id</td><td>Delete a job listing</td></tr>
-    <tr><td>GET</td><td>/api/role-selection</td><td>Get Applicant Role</td></tr>
   </table>
 
   <h3>📬 Application API</h3>
@@ -137,7 +142,6 @@
     <tr><td>GET</td><td>/api/applications</td><td>Get all applications</td></tr>
     <tr><td>POST</td><td>/api/jobs/:id/apply</td><td>Apply for a job</td></tr>
     <tr><td>GET</td><td>/api/applications/:id</td><td>Get application by ID</td></tr>
-    <tr><td>GET</td><td>/api/role-selection</td><td>Get Employer Role</td></tr>
   </table>
   <h2>📎 License</h2>
   <p>This project is open-source and free to use under the MIT License.</p>
