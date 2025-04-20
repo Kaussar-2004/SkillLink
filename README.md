@@ -24,6 +24,9 @@
     <li><strong>Database:</strong> MySQL</li>
     <li><strong>Hosting:</strong> Railway (Backend + DB)</li>
   </ul>
+  <h2>🏠 Homepage</h2>
+<img src="Home.png" alt="Job Portal Homepage Screenshot" style="width:100%; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
+
 
   <h2>🧩 Features</h2>
   <h3>🔐 User Roles</h3>
@@ -134,11 +137,6 @@
     <tr><td>POST</td><td>/api/jobs/:id/apply</td><td>Apply for a job</td></tr>
     <tr><td>GET</td><td>/api/applications/:id</td><td>Get application by ID</td></tr>
   </table>
-
-  <h2>🏠 Homepage</h2>
-<img src="Home.png" alt="Job Portal Homepage Screenshot" style="width:100%; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
-
-
   <h2>📎 License</h2>
   <p>This project is open-source and free to use under the MIT License.</p>
 
