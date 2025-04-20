@@ -135,13 +135,9 @@
     <tr><td>GET</td><td>/api/applications/:id</td><td>Get application by ID</td></tr>
   </table>
 
-  <h2>✅ Additional Requirements</h2>
-  <ul>
-    <li><strong>Validation:</strong> Required fields, future deadlines, max length</li>
-    <li><strong>Error Handling:</strong> Proper messages & status codes</li>
-    <li><strong>UI Feedback:</strong> Toasts for success/failure</li>
-    <li><strong>API Docs:</strong> Basic documentation with samples</li>
-  </ul>
+  <h2>🏠 Homepage</h2>
+<img src="https://via.placeholder.com/800x400" alt="Job Portal Homepage Screenshot" style="width:100%; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
+
 
   <h2>📎 License</h2>
   <p>This project is open-source and free to use under the MIT License.</p>
