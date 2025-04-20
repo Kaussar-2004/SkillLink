@@ -6,7 +6,7 @@ const jobRoutes = require('./routes/jobRoutes');
 const applicationRoutes = require('./routes/applicationroutes');
 
 // Middleware
-app.use(cors({origin: 'http://localhost:4200', // or '*' for testing
+app.use(cors({origin: 'https://frontend-ruby-five-33.vercel.app', // or '*' for testing
   credentials: true}));
 app.use(express.json());
 
