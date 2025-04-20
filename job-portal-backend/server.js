@@ -6,7 +6,7 @@ const jobRoutes = require('./routes/jobRoutes');
 const applicationRoutes = require('./routes/applicationroutes');
 
 // Middleware
-app.use(cors({origin: 'https://frontend-ruby-five-33.vercel.app', // or '*' for testing
+app.use(cors({origin: 'https://frontendjob.netlify.app/', // or '*' for testing
   credentials: true}));
 app.use(express.json());
 
