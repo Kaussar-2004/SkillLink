@@ -136,7 +136,7 @@
   </table>
 
   <h2>🏠 Homepage</h2>
-<img src="https://via.placeholder.com/800x400" alt="Job Portal Homepage Screenshot" style="width:100%; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
+<img src="Home.png" alt="Job Portal Homepage Screenshot" style="width:100%; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
 
 
   <h2>📎 License</h2>
