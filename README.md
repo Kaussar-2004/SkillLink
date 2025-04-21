@@ -5,8 +5,15 @@
 </head>
 <body>
 
-  <h1>💼 Job Portal</h1>
-  <p>A full-stack web-based Job Portal where employers can post jobs and applicants can apply to them. Built using <strong>Angular 16</strong>, <strong>Node.js with TypeScript</strong>, and <strong>MySQL</strong>.</p>
+ <h1>💼 Job Portal</h1>
+<p>
+  A full-stack web-based Job Portal where employers can post jobs and applicants can apply to them. 
+  Built using <strong>Angular 16</strong>, <strong>Node.js with TypeScript</strong>, and <strong>MySQL</strong><br><br>
+  Project done by:<br>
+  Kavya Surya Sree A<br>
+  Kaussar A
+</p>
+
   
   <hr>
   <h2>🚀 Project Objectives</h2>
