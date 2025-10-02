@@ -10,8 +10,8 @@
   A full-stack web-based Job Portal where employers can post jobs and applicants can apply to them. 
   Built using <strong>Angular 16</strong>, <strong>Node.js with TypeScript</strong>, and <strong>MySQL</strong><br><br>
   Project done by:<br>
+  Kaussar A<br>
   Kavya Surya Sree A<br>
-  Kaussar A
 </p>
 
   
@@ -28,7 +28,7 @@
     <li><strong>Frontend:</strong> Angular 16 + Angular Material</li>
     <li><strong>Backend:</strong> Node.js + Express + TypeScript</li>
     <li><strong>Database:</strong> MySQL</li>
-    <li><strong>Hosting:</strong> Railway (Backend + DB)</li>
+    <li><strong>Hosting:</strong>Netlify+Render+Clever Cloud</li>
   </ul>
   <h2>🏠 Homepage</h2>
 <img src="Home.png" alt="Job Portal Homepage Screenshot" style="width:100%; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 20px;">
