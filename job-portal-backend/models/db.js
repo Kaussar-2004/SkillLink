@@ -2,10 +2,9 @@ const mysql = require('mysql2/promise');
 
 // Create a connection pool with better error handling
 const db = mysql.createPool({
- host: 'bnvcjlbbnm5ooyxgco7e-mysql.services.clever-cloud.com',
-  user: 'upoiicsoxl5swbd8',
-  password: 'sPi990eAeH6ZrrDQV2r7',
-  database: 'bnvcjlbbnm5ooyxgco7e',
+  user: 'root',
+  database: 'job_portal',
+  password:'',
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0
